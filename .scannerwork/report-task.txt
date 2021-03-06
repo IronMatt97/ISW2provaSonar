@@ -3,5 +3,5 @@ projectKey=IronMatt97_ISW2provaSonar
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.18011
 dashboardUrl=https://sonarcloud.io/dashboard?id=IronMatt97_ISW2provaSonar
-ceTaskId=AXgH-rkiUpiW5tO_g8J_
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgH-rkiUpiW5tO_g8J_
+ceTaskId=AXgIAX09mLopipqL-s8v
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgIAX09mLopipqL-s8v
