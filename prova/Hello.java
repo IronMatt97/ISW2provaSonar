@@ -1,4 +1,4 @@
-package provaPackage;
+package prova;
 
 import java.util.logging.Logger;
 import java.util.logging.Level; 
