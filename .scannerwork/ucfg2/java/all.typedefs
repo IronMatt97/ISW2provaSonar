@@ -16,10 +16,10 @@ getClass(),java.lang.Object#getClass()Ljava/lang/Class;5
 notifyAll()java.lang.Object#notifyAll()V"
 wait()java.lang.Object#wait()V*
 
-hashCode()java.lang.Object#hashCode()Iœ
-provaPackage.Hellojava.lang.Object(
-<init>()provaPackage.Hello#<init>()VJ
-main([Ljava/lang/String;)-provaPackage.Hello#main([Ljava/lang/String;)Vó]
+hashCode()java.lang.Object#hashCode()I‡
+prova.Hellojava.lang.Object!
+<init>()prova.Hello#<init>()VC
+main([Ljava/lang/String;)&prova.Hello#main([Ljava/lang/String;)Vó]
 java.util.logging.Loggerjava.lang.ObjectF
 isLevelInitialized().java.util.logging.Logger#isLevelInitialized()Zd
 #fine(Ljava/util/function/Supplier;)=java.util.logging.Logger#fine(Ljava/util/function/Supplier;)V”
